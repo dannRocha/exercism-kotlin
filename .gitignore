@@ -1,0 +1,7 @@
+*.class
+*.jar
+.gradle/
+.gradle/
+.exercism/
+.idea/
+build/
